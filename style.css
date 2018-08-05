@@ -1,0 +1,48 @@
+
+#headshot{
+    width:30%;
+    height:30%;
+    display:flex;
+    justify-content: space-around;
+   
+}
+.mid{
+    background-color:black;
+    color:#D4AF37;
+    align-items:center;
+    justify-content:space-between;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:10px solid grey;   
+}
+
+.aboutme{
+ display:flex; 
+ justify-content:center;
+ align-items:center;
+
+}
+body{
+ background-color:black;   
+}
+
+p{
+ color:black;   
+}
+
+.footer{
+ background-color:#D4AF37;
+ color:white;
+ font-size:20px;
+ display:flex;
+ justify-content:space-around;
+}
+
+.name{
+ display:flex;
+ justify-content:center;
+}
+
